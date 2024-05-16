@@ -1,4 +1,4 @@
-package org.example;
+package org.bchain;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
